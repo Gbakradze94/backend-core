@@ -11,6 +11,20 @@
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
     </padding>
 
+
+<!--    https://www.linkedin.com/learning/learning-java-9-modularity/welcome?autoplay=true&u=2113185
+https://www.linkedin.com/learning/java-8-for-professionals/comparing-dates-and-times?autoSkip=true&autoplay=true&resume=false&u=106534538
+https://www.linkedin.com/learning/first-look-java-10-and-java-11/enhance-your-code-with-java-10-and-11?autoplay=true&u=2113185
+
+https://www.digitalocean.com/community/tutorials/java-8-features-with-examples
+https://www.digitalocean.com/community/tutorials/java-9-features-with-examples
+
+https://www.baeldung.com/java-9-modularity
+https://www.digitalocean.com/community/tutorials/java-10-features
+https://dzone.com/articles/var-work-in-progress
+https://www.digitalocean.com/community/tutorials/java-11-features
+-->
+
     <Label fx:id="welcomeText"/>
     <Button text="Hello!" onAction="#onHelloButtonClick"/>
 </VBox>
